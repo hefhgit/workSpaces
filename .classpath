@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/dom4j-2.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="lib/poi-examples-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="lib/poi-excelant-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="lib/poi-ooxml-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="lib/poi-scratchpad-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/pdfbox-2.0.15.jar"/>
+	<classpathentry kind="lib" path="lib/gson-2.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/gson-2.8.5.jar"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="lib/oos-security-1.0.0-RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
